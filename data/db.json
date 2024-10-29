@@ -1,0 +1,7 @@
+{
+    "jobs":[
+        {"title" : "Senior designer" ,"id" :1 , "details":"lorem200"},
+        {"title" : "Web developer" ,"id" :2 ,   "details":"lorem200"},
+        {"title" : "App developer" ,"id" :3 ,   "details":"lorem200"}
+    ]
+}
